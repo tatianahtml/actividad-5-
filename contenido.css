@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+
+}
+
+  body {
+    margin: 0;
+    background-color: rosybrown;
+    text-align: center;
+   font-family: segoe print;
+   font-size: 23px;
+   letter-spacing: 1px;
+   margin: 0;
+
+}
+
+  .bloquetitulo{
+    font-size: 23px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+    font-family:segoe print;
+    color:black;
+
+}
+
+  .parrafotitulo1 {
+     letter-spacing: 1px;
+     font-family: segoe print;
+     color: black;
+     margin-top: -7px;
+     text-align: center;
+     font-size: 25px;
+     padding-bottom: 35px;
+ }
+
+ .icono {
+     padding-top: 55px;
+ }
+
+ .bloquetitulo2{
+     width: 100%;
+     display: inline-block;
+     font-size: 25px;
+     letter-spacing: 1px;
+     margin: 0;
+     padding-top: 35px;
+     text-align: center;
+     color: red;
+     font-family: segoe print;
+     background-color: beige;
+
+ }
+
+.parrafotitulo2{
+    letter-spacing: 1px;
+    font-family: segoe print;
+     color: black;
+     text-align: left;
+     margin-left: 85px;
+     margin-top: 45px;
+     text-align: center;
+     font-size: 24px;
+     float: left;
+}
+
+  
+    .pfotografia{
+      text-align: center;
+      font-size: 40px;
+      color: black;
+      padding-bottom: 15px;
+ }
+
+      .fotografia {
+      width: 800px;
+      display: block;
+      margin: 135px auto;
+      border-radius: 15px;
+      text-align: center;
+      font-family: segoe print;
+  }
